@@ -1,0 +1,6 @@
+{
+  "name": "Handrip Co. (享)",
+  "description": "香港精品咖啡品牌「Handrip Co. (享)」數位展示廳。結合日系和風職人美學與現代極簡手沖工藝，搭載互動風味雷達圖、專屬職人豆款調配師，以及一鍵 WhatsApp 智慧追蹤預購系統。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+HK:wght@300;400;500;700&family=Noto+Serif+JP:wght@300;400;600;700;900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Noto Serif JP", serif;
+  --font-sans: "Noto Sans HK", sans-serif;
+  --color-brand-primary: #E5DCD3;
+  --color-brand-secondary: #8C827A;
+  --color-brand-accent: #C5A880;
+  --color-brand-bg: #1A1816;
+}
+
+/* Custom CSS to enable vertical writing direction for Japanese layout elements */
+.writing-mode-vertical {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+}
+
+/* Scroll smooth settings */
+html {
+  scroll-behavior: smooth;
+}
+
